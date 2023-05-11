@@ -7,7 +7,7 @@
 - pkg install python2
 - pkg install python3
 - pkg install git
-- rm -rf Blade_Bypass
+- rm -rf Bypass_Store
 - git clone https://github.com/MIVI404cyber/Bypass_Store
-- cd Blade_Bypass
+- cd Bypass_Store
 # Thanks All (💝)
