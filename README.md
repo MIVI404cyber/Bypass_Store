@@ -1,4 +1,4 @@
-# Blade_Bypass
+# Bypass_Store
 ###### Bypass By MR.MIVI
 # Command 👇👇
 - pkg updete
@@ -8,7 +8,6 @@
 - pkg install python3
 - pkg install git
 - rm -rf Blade_Bypass
-- git clone https://github.com/MIVI404cyber/Blade_Bypass
+- git clone https://github.com/MIVI404cyber/Bypass_Store
 - cd Blade_Bypass
-- python BLADE-BYPASS.py
 # Thanks All (💝)
